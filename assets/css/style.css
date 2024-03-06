@@ -8,33 +8,24 @@
     font-weight: 500;
     font-style: normal;
 }
-<<<<<<< HEAD
-
 .parrafo{
     font-family: "Roboto";
 }
-
 .gray{
     color: #707070
 }
-
 .black{
     color: #212529;
 }
-
-    
-    .black{
+.black{
         color: #212529;
     };
-
 .green {
     color: #28A745;
 }
-=======
 .navbar-brand img{
     width: 86px;
 }
 header{
     background-color: #28A745;
 }
->>>>>>> 369ca7c8debd1a01ede9c1bbcb20c36195831132
