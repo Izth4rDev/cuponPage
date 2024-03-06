@@ -23,6 +23,15 @@
 .green {
     color: #28A745;
 }
+.white{
+    color: #FFFF;
+}
+.bgGreen{
+    background-color: #28A745;
+}
+.bgWhite{
+    background-color: #FFFF;
+}
 .navbar-brand img{
     width: 86px;
 }
@@ -31,4 +40,7 @@ header{
 }
 .CuponLogo{
     width: 82px;
+}
+button{
+    font-weight: bold !important;
 }
